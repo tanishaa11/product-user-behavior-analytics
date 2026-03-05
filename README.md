@@ -71,6 +71,22 @@ The following analyses were conducted:
 
 ---
 
+## Dashboard
+
+The Excel dashboard summarizes key product analytics metrics including user funnel behavior, traffic sources, and device distribution.
+
+Download the dashboard here:
+
+Product Analytics Dashboard 
+
+---
+
+## Dashboard Preview
+
+![User Funnel](visuals/product_analytics_dashboard.png)
+
+---
+
 ## Project Structure
 
 ```
@@ -92,11 +108,13 @@ product-user-behavior-analytics
 ├── visuals
 │   ├── user_behavior_funnel.png
 │   ├── traffic_sources.png
+│   ├── product_analytics_dashboard.png
 │   └── device_distribution.png
 │
 ├── reports
 │   └── insights_summary.md
 │
 └── dashboard
+│   └── Product Analytics Dashboard.xlsx
 ```
 
