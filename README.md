@@ -59,15 +59,15 @@ The following analyses were conducted:
 
 ### User Behavior Funnel
 
-![User Funnel](visuals/user_behavior_funnel.png)
+![User Funnel](visulas/user_behavior_funnel.png)
 
 ### Traffic Sources
 
-![Traffic Sources](visuals/traffic_sources.png)
+![Traffic Sources](visulas/traffic_sources.png)
 
 ### Device Distribution
 
-![Device Usage](visuals/device_distribution.png)
+![Device Usage](visulas/device_distribution.png)
 
 ---
 
