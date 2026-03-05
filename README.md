@@ -73,3 +73,30 @@ The following analyses were conducted:
 
 ## Project Structure
 
+```
+product-user-behavior-analytics
+│
+├── README.md
+├── requirements.txt
+│
+├── data
+│   ├── raw
+│   │   └── ga4_event_2021.csv
+│   │
+│   └── processed
+│       └── clean_product_events.csv
+│
+├── notebooks
+│   └── product_analytics.ipynb
+│
+├── visuals
+│   ├── user_behavior_funnel.png
+│   ├── traffic_sources.png
+│   └── device_distribution.png
+│
+├── reports
+│   └── insights_summary.md
+│
+└── dashboard
+```
+
